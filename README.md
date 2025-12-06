@@ -19,6 +19,16 @@ FoodieLand is a MERN stack web application that allows users to create, edit, ma
 • Axios – API communication
 • JSON Web Token (JWT) – Authentication
 
+📸 Screenshots
+• Login Page
+<img width="1620" height="664" alt="Screenshot 2025-12-07 024233" src="https://github.com/user-attachments/assets/65fa5764-119a-4901-b610-fe7d71e6b8e6" />
+
+• Register Page
+• Home Page
+• Recipe Details Page
+• Add Recipe Page
+• My Recipes Page
+
 📦 Project Structure
 recipe-sharing-app/
 ├── backend/
