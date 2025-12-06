@@ -1,7 +1,8 @@
+// frontend/src/api/axiosClient.js
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://recipe-sharing-app-rio5.onrender.com/api",
+  baseURL: "http://localhost:5000/api",
 });
 
 api.interceptors.request.use((config) => {
