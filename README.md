@@ -1,67 +1,62 @@
 🍽️ FoodieLand – Recipe Sharing App
+FoodieLand is a MERN stack web application that allows users to create, edit, manage, and explore delicious recipes from around the world. It features a clean user interface, secure authentication, and personalized recipe collections.
 
-FoodieLand is a MERN stack web application where users can create, edit, share, and explore amazing recipes from around the world. It has secure authentication and a clean, modern UI for a great cooking community experience.
+🚀 Features
+• User authentication (Register & Login)
+• Add, edit, delete your own recipes
+• View recipe details beautifully
+• Vegetarian / Non-Veg option
+• Recipe difficulty levels
+• Categorization (Breakfast, Lunch, Dinner, Dessert, Snack, Beverages)
+• Search & Filter system
+• ❤️ Like recipes
+• Fully responsive modern UI
 
-Features
+🛠️ Tech Stack
+• React.js – Frontend
+• Node.js + Express.js – Backend API
+• MongoDB Atlas – Database
+• Axios – API communication
+• JSON Web Token (JWT) – Authentication
 
-• User registration and login
-• Add, edit, and delete your own recipes
-• View all recipes on the home page
-• Category-based recipes (Breakfast, Lunch, Dinner, Dessert, Snack, Beverages)
-• Mark recipes as Vegetarian
-• Like recipes ❤️
-• Responsive and user-friendly UI
-
-Tech Stack
-
-Frontend: React.js, Axios, React Router
-Backend: Node.js, Express.js, MongoDB, JWT
-Database: MongoDB Atlas
-
-Folder Structure
-
+📦 Project Structure
 recipe-sharing-app/
-│ backend/
-│ │ models/
-│ │ routes/
-│ │ controllers/
-│ │ config/db.js
-│ │ server.js
-│
-│ frontend/
-│ │ src/
-│ │ public/
-│ │ package.json
-│ │ vite.config.js
+├── backend/
+│ ├── server.js
+│ ├── routes/
+│ ├── models/
+│ └── controllers/
+└── frontend/
+├── src/
+├── components/
+└── pages/
 
-How to Run Locally
+📥 How to Run Locally
+Step 1 – Clone repository
+Step 2 – Setup Backend
+• Navigate to backend folder
+• Install dependencies: npm install
+• Add .env file with MongoDB URI and JWT secret
+• Start server: npm run dev
 
-Install Node.js and MongoDB
+Step 3 – Setup Frontend
+• Navigate to frontend folder
+• Install dependencies: npm install
+• Start development server: npm run dev
+• App runs at: http://localhost:5173/
 
-Clone the project:
-git clone https://github.com/Daneshwari5611/recipe-sharing-app
-
-Setup Backend:
-cd backend
-npm install
-create .env file:
+🌱 Environment Variables Required (.env example)
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret
-npm run dev
+JWT_SECRET=your_secret_key
 
-Setup Frontend:
-cd ../frontend
-npm install
-npm run dev
+✨ Upcoming Enhancements
+• Deployment on Render / Vercel
+• Save & bookmark recipes
+• User profile page
+• Dark mode UI
+• Comment section under each recipe
 
-To-Do / Future Enhancements
-
-• Deploy frontend & backend
-• Add favorites, comments, and ratings
-• Upload images instead of URLs
-• Social sharing for recipes
-
-Author
-
+👩‍💻 Developer
 Developed by: Daneshwari
-GitHub: github.com/Daneshwari5611
+Master of Computer Science Student | NMIT Bangalore
+GitHub: https://github.com/Daneshwari5611
