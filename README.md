@@ -1,7 +1,11 @@
 🍽️ FoodieLand – Recipe Sharing App
+
+
 FoodieLand is a MERN stack web application that allows users to create, edit, manage, and explore delicious recipes from around the world. It features a clean user interface, secure authentication, and personalized recipe collections.
 
 🚀 Features
+
+
 • User authentication (Register & Login)
 
 • Add, edit, delete your own recipes
@@ -22,6 +26,8 @@ FoodieLand is a MERN stack web application that allows users to create, edit, ma
 
 
 🛠️ Tech Stack
+
+
 • React.js – Frontend
 
 • Node.js + Express.js – Backend API
@@ -34,6 +40,8 @@ FoodieLand is a MERN stack web application that allows users to create, edit, ma
 
 
 📸 Screenshots
+
+
 • Login Page
 <img width="1620" height="664" alt="Screenshot 2025-12-07 024233" src="https://github.com/user-attachments/assets/65fa5764-119a-4901-b610-fe7d71e6b8e6" />
 
@@ -54,18 +62,31 @@ FoodieLand is a MERN stack web application that allows users to create, edit, ma
 
 
 📦 Project Structure
+
+
 recipe-sharing-app/
+
 ├── backend/
+
 │ ├── server.js
+
 │ ├── routes/
+
 │ ├── models/
+
 │ └── controllers/
+
 └── frontend/
+
 ├── src/
+
 ├── components/
+
 └── pages/
 
+
 📥 How to Run Locally
+
 
 Step 1 – Clone repository
 
@@ -89,14 +110,19 @@ Step 3 – Setup Frontend
 
 • App runs at: http://localhost:5173/
 
+
+
 🌱 Environment Variables Required (.env example)
+
 
 MONGO_URI=your_mongodb_connection_string
 
 JWT_SECRET=your_secret_key
 
 
+
 ✨ Upcoming Enhancements
+
 
 • Deployment on Render / Vercel
 
@@ -108,7 +134,10 @@ JWT_SECRET=your_secret_key
 
 • Comment section under each recipe
 
+
+
 👩‍💻 Developer
+
 
 Developed by: Daneshwari
 
