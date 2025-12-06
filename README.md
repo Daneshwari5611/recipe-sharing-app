@@ -24,10 +24,20 @@ FoodieLand is a MERN stack web application that allows users to create, edit, ma
 <img width="1620" height="664" alt="Screenshot 2025-12-07 024233" src="https://github.com/user-attachments/assets/65fa5764-119a-4901-b610-fe7d71e6b8e6" />
 
 • Register Page
+<img width="1762" height="832" alt="image" src="https://github.com/user-attachments/assets/4dede9ea-7443-4cdc-ad3a-d25e38fbf740" />
+
 • Home Page
+<img width="1172" height="917" alt="image" src="https://github.com/user-attachments/assets/ea55ac1f-e332-4b0c-a040-b4b403813be8" />
+
 • Recipe Details Page
+<img width="1592" height="935" alt="image" src="https://github.com/user-attachments/assets/5923bea2-8f3b-4d5f-b44d-6e21d8baa069" />
+
 • Add Recipe Page
+<img width="1226" height="895" alt="image" src="https://github.com/user-attachments/assets/60783460-d3d4-4530-9b7a-6cf030b0359f" />
+
 • My Recipes Page
+<img width="1418" height="587" alt="image" src="https://github.com/user-attachments/assets/57cc8d4b-8929-488e-b48c-fa8e3b7c98f1" />
+
 
 📦 Project Structure
 recipe-sharing-app/
